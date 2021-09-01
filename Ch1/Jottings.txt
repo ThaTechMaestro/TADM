@@ -1,0 +1,26 @@
+Algorithms always have a proof of correctness to 
+    validate their correctness 
+
+Most times the most obvious algorithms always turn 
+    out to be inefficient.
+    This means you should always validate whatever
+    algorithm you will be using with a proof of correctness
+    to back it up.
+
+Heuristic refers to a guideline:
+    something that we do based of experience 
+    It is not rigid as algorithms
+
+Permutations & Combinations easily explained:
+    https://www.youtube.com/watch?v=0NAASclUm4k&list=PLmdFyQYShrjfPLdHQxuNWvh2ct666Na3z
+
+Section1.1:
+    Basically if you do not have a proof of correctness
+    to validate why a particular set of steps are optimal
+    You can as well say you are using a heuristic approach.
+    
+    Most algorithms by inexperienced programmers are solved by 
+    using a heuristic approach.
+
+    Every optimal algorithm has a valid proof of correctness 
+    backing its efficiency.
