@@ -1,0 +1,5 @@
+Link to codes:
+    https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3
+
+Continue From:
+    Section 1.2
