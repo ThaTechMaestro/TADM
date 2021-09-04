@@ -1,5 +1,16 @@
+Important Resources
+
 Link to codes:
     https://github.com/SkienaBook/Algorithm-Design-Manual-Programs-V3
+
+Also using Weiss Data Structures & ALgorithms Book
+
+C Programming Playlist:
+https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S
+
+Data Structures and Algorithms in C Playlist:
+https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S
+
 
 Continue From:
     Chapter Notes

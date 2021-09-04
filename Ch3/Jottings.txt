@@ -1,0 +1,9 @@
+Learnt about 
+    Arrays & Linkedlist 
+    Stacks & Queues ---> referred to as container abstract data types 
+
+Abstract data types are user defined types done with the functions 
+    specifying both the values and operations to be performed 
+    on them.
+    
+
