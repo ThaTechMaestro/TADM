@@ -13,4 +13,10 @@ https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD
 
 
 Continue From:
-    Chapter Notes
+
+    I decided to re-attempt the problem using a language I am 
+    more comfortable with, which is Python.
+    I'll attempt to solve the question using Python, once I get comfortable 
+    with C, I'll do the same.
+
+    File: 3.1.py

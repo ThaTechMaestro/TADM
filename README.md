@@ -1,1 +1,1 @@
-# Walkthrough of The Algorithm Design Manual Book
+# A Walkthrough of the book "The Algorithm Design Manual"
