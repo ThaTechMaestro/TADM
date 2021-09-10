@@ -42,6 +42,25 @@ Solving the problem
         A key thing to look out for is the most recent opening parenthesis, 
         which needs to be closed or balanced
 
+    
+    What are the methods present in a stack
+        What is pop or peek
+
+
+
+
+
+
+    ---------------------------------------
+    Time complexities
+
+    Space complexities
+    Worst case for valid string:
+        O(n/2) -- storing half of the parentheses on the stack  = O(n)
+    
+    Worst case for invalid string:
+        O(n) -- storing all the parentheses on the stack  = O(n)
+    
 
 --------------------
 Continue From:
