@@ -14,6 +14,13 @@ https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD
 
 Continue From:
 
+    Playlist:   
+        https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx
+        Continue from: Lecture2
+    
+    Ch1:
+        Start from the Interview problems
+
     I decided to re-attempt the problem using a language I am 
     more comfortable with, which is Python.
     I'll attempt to solve the question using Python, once I get comfortable 
